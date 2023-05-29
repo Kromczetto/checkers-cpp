@@ -1,0 +1,8 @@
+TODO:
+
+1)						AI 
+	
+		- zrobic funkcje, ktora odpowiada za walidacje atakow  sprawdzanie czy jest atak
+		- zrobic ze jak jest krol to moze przod/tyl chodzic
+
+
